@@ -33,22 +33,24 @@ git clone https://github.com/sudosoc/SHF.git
 cd SHF
 chmod +x install.sh
 sudo ./install.sh
-
+```
 # After installation
 
 Run SHF globally:
-
+```bash
 shf
-
+```
 To update the framework:
-
+```bash
 shf update
-
+```
 
 🚀 Usage
-
+```bash
 shf
+```
 
+```bash
 ====================================================
   SHF - SudoSoc Hybrid Framework  (v0.x.x)
 ====================================================
@@ -67,16 +69,17 @@ Commands:
   run         Run a specific module
   help        Show global help
   version     Display SHF version
-
+```
 
 📚 Examples
-
+```bash
 shf list
 
 shf run offensive/network/port_scanner --ip 192.168.1.1 --json
 
 shf run forensics/files/hash_checker -h
-
+```
+```bash
 🧩 Project Structure
 SHF/
 │
@@ -92,7 +95,7 @@ SHF/
 ├── docs/                    → Documentation
 ├── shf_dev_studio/          → Desktop app for module generation
 └── install.sh               → Installer
-
+```
 
 
 
@@ -129,6 +132,7 @@ SudoSoc
 
 
 ⭐ Support & Contact
+
 
 For licensing or business inquiries:
 
