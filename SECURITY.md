@@ -1,4 +1,4 @@
-# Security Policy - SHF (SudoSoc Hybrid Framework)
+# Security Policy - SHF (sudosoc Hybrid Framework)
 
 SHF is a cybersecurity framework intended **ONLY** for:
 
