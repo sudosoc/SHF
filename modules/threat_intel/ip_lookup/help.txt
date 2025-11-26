@@ -1,0 +1,24 @@
+====================================================
+ Module: threat_intel/ip_lookup
+====================================================
+
+Description
+------------------------------------
+Check an IP address against a small local reputation list (demo only).
+No external network calls are performed.
+
+Usage
+------------------------------------
+shf ti-ip <address>
+shf run threat_intel/ip_lookup --ip <address> [--json]
+
+Options
+------------------------------------
+--ip IP                IP address to check (required if not given positionally)
+--json                 Output JSON result
+-h, --help             Show this help message
+
+Examples
+------------------------------------
+shf ti-ip 185.220.101.1
+shf run threat_intel/ip_lookup --ip 203.0.113.5 --json

@@ -1,0 +1,14 @@
+id: "offensive/placeholder"
+name: "Offensive Placeholder"
+type: "python"
+path: "placeholder.py"
+
+aliases:
+  - "off-demo"
+  - "off_placeholder"
+
+tags:
+  - "offensive"
+  - "demo"
+
+help_file: "help.txt"

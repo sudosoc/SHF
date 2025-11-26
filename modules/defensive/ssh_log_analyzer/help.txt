@@ -1,0 +1,25 @@
+====================================================
+ Module: defensive/ssh_log_analyzer
+====================================================
+
+Description
+------------------------------------
+Analyze SSH auth logs to detect repeated failed login attempts
+and possible brute-force activity.
+
+Usage
+------------------------------------
+shf sshlog /var/log/auth.log
+shf run defensive/ssh_log_analyzer --log /var/log/auth.log --threshold 5
+
+Options
+------------------------------------
+--log PATH             Path to auth.log (default: /var/log/auth.log)
+--threshold N          Minimum failures to flag IP (default: 5)
+--json                 Output JSON with list of suspicious IPs
+-h, --help             Show this help message
+
+Examples
+------------------------------------
+shf sshlog /var/log/auth.log
+shf run defensive/ssh_log_analyzer --log /var/log/auth.log --threshold 10 --json
