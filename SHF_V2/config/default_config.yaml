@@ -1,0 +1,10 @@
+# SHF global configuration
+
+repo_url: "https://github.com/sudosoc/SHF.git"
+repo_branch: "main"
+
+colors: true
+log_enabled: true
+json_indent: 2
+cache: true
+auto_update: false

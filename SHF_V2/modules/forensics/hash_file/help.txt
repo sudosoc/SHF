@@ -1,0 +1,25 @@
+====================================================
+ Module: forensics/hash_file
+====================================================
+
+Description
+------------------------------------
+Calculate and verify file hashes for integrity checking
+and basic forensics workflows. Uses SHA256 by default.
+
+Usage
+------------------------------------
+shf hash <file>
+shf run forensics/hash_file --file <path> [--algo sha256] [--json]
+
+Options
+------------------------------------
+--file PATH            Path to the file to hash (required if not given positionally)
+--algo NAME            Algorithm: sha256 (default)
+--json                 Output JSON instead of plain text
+-h, --help             Show this help message
+
+Examples
+------------------------------------
+shf hash suspicious.exe
+shf run forensics/hash_file --file disk.dd --algo sha256 --json
