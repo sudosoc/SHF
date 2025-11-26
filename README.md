@@ -12,7 +12,7 @@ SHF (sudosoc Hybrid Framework) is a modular cyber security framework that combin
 
 ## Author
 
-- **SudoSoc**  
+- **sudosoc**  
 - Website: https://sudosoc.com  
 - GitHub: https://github.com/sudosoc
 
