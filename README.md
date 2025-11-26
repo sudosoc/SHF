@@ -104,7 +104,7 @@ SHF/
 This project uses a custom proprietary license.
 Redistribution, modification, or commercial usage is strictly prohibited.
 
-See: LICENSE.md
+See: ./LICENSE
 
 
 
@@ -117,7 +117,7 @@ systems you own
 or systems you have explicit written authorization to test
 
 Unauthorized use is strictly prohibited.
-See: SECURITY.md
+See: ./SECURITY
 
 
 
