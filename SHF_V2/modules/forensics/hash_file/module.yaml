@@ -1,0 +1,16 @@
+id: "forensics/hash_file"
+name: "File Hash Calculator"
+type: "python"
+path: "hash_file.py"
+
+aliases:
+  - "hash"
+  - "hash_file"
+
+tags:
+  - "forensics"
+  - "file"
+  - "hash"
+
+primary_arg: "file"
+help_file: "help.txt"
