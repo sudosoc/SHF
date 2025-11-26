@@ -104,7 +104,7 @@ SHF/
 This project uses a custom proprietary license.
 Redistribution, modification, or commercial usage is strictly prohibited.
 
-See: ./LICENSE
+See: [LICENSE](./LICENSE)
 
 
 
