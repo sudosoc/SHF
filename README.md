@@ -93,7 +93,6 @@ SHF/
 ├── internal/                → Core engine & dispatcher
 ├── config/                  → YAML configs
 ├── docs/                    → Documentation
-├── shf_dev_studio/          → Desktop app for module generation
 └── install.sh               → Installer
 ```
 
@@ -118,7 +117,7 @@ or systems you have explicit written authorization to test
 
 Unauthorized use is strictly prohibited.
 See: [SECURITY](./SECURITY)
-
+See: [LICENSE](./LICENSE)
 
 
 
