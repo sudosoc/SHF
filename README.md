@@ -117,7 +117,7 @@ systems you own
 or systems you have explicit written authorization to test
 
 Unauthorized use is strictly prohibited.
-See: ./SECURITY
+See: [SECURITY](./SECURITY)
 
 
 
