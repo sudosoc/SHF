@@ -50,6 +50,7 @@ shf update
 ```bash
 shf
 ```
+---
 
 ```bash
 ====================================================
@@ -71,7 +72,7 @@ Commands:
   help        Show global help
   version     Display SHF version
 ```
-
+---
 📚 Examples
 ```bash
 shf list
@@ -82,7 +83,7 @@ shf run offensive/network/port_scanner --ip 192.168.1.1 --json
 ```bash
 shf run forensics/files/hash_checker -h
 ```
-
+---
 🧩 Project Structure
 ```bash
 SHF/
@@ -99,7 +100,7 @@ SHF/
 ├── docs/                    → Documentation
 └── install.sh               → Installer
 ```
-
+---
 
 
 🔐 License (Proprietary)
@@ -109,7 +110,7 @@ Redistribution, modification, or commercial usage is strictly prohibited.
 
 See: [LICENSE](./LICENSE)
 
-
+---
   
 
 🛡️ Security Policy
@@ -123,7 +124,7 @@ or systems you have explicit written authorization to test
 Unauthorized use is strictly prohibited.
 See: [SECURITY](./SECURITY)
 See: [LICENSE](./LICENSE)
-
+---
     
 👤 Author: sudosoc - Seif
   
