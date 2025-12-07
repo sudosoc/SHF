@@ -110,6 +110,7 @@ Redistribution, modification, or commercial usage is strictly prohibited.
 See: [LICENSE](./LICENSE)
 
 
+  
 
 🛡️ Security Policy
 
@@ -123,17 +124,13 @@ Unauthorized use is strictly prohibited.
 See: [SECURITY](./SECURITY)
 See: [LICENSE](./LICENSE)
 
-
-
-👤 Author
-
-sudosoc - Seif
-
+    
+👤 Author: sudosoc - Seif
+  
 🌐 Website: https://sudosoc.com
-
+  
 🐙 GitHub: https://github.com/sudosoc
-
-
+   
 ⭐ Support & Contact
 
 For licensing or business inquiries:
