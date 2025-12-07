@@ -126,7 +126,7 @@ See: [LICENSE](./LICENSE)
 
 👤 Author
 
-SudoSoc
+sudosoc - Seif
 
 🌐 Website: https://sudosoc.com
 
