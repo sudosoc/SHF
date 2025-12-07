@@ -115,11 +115,8 @@ See: [LICENSE](./LICENSE)
 
 🛡️ Security Policy
 
-Use SHF only on:
-
-systems you own
-
-or systems you have explicit written authorization to test
+Use SHF only on: 
+systems you own or systems you have explicit written authorization to test.
 
 Unauthorized use is strictly prohibited.
 See: [SECURITY](./SECURITY)
