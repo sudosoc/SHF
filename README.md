@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-blue.svg)
 ![Language](https://img.shields.io/badge/Core-Go%20%7C%20Rust%20%7C%20Python-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-
+[![Seif](https:seif.sudosoc.com)](./Seif)
 SHF (sudosoc Hybrid Framework) is a modular cyber security framework that integrates:
 
 - 🔴 **Offensive modules** (Red Team)
