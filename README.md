@@ -82,8 +82,8 @@ shf run offensive/network/port_scanner --ip 192.168.1.1 --json
 shf run forensics/files/hash_checker -h
 ```
 
-```bash
 🧩 Project Structure
+```bash
 SHF/
 │
 ├── cli/                     → SHF main CLI entrypoint
