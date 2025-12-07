@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 
-SHF (sudosoc Hybrid Framework)is a modular cyber security framework that integrates:
+SHF (sudosoc Hybrid Framework) is a modular cyber security framework that integrates:
 
 - 🔴 **Offensive modules** (Red Team)
 - 🔵 **Defensive modules** (Blue Team)
