@@ -135,7 +135,6 @@ sudosoc - Seif
 
 ⭐ Support & Contact
 
-
 For licensing or business inquiries:
 
-contact@sudosoc.com
+Email: contact@sudosoc.com
