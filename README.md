@@ -74,11 +74,14 @@ Commands:
 📚 Examples
 ```bash
 shf list
-
+```
+```bash
 shf run offensive/network/port_scanner --ip 192.168.1.1 --json
-
+```
+```bash
 shf run forensics/files/hash_checker -h
 ```
+
 ```bash
 🧩 Project Structure
 SHF/
