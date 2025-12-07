@@ -23,7 +23,7 @@ allowing you to plug in new tools and scripts effortlessly using the SHF Dev Stu
 
 # 📦 Installation
 
-You can install SHF using one of the following methods.
+You can install SHF using this method...
 
 ---
 
